@@ -1,4 +1,4 @@
-# README – School Closure Prediction and Classification Project
+# README – School Closure Prediction and Analysis by Classification & Unsupervised analysis Project
 
 ## Project Description
 This project focuses on analyzing, classifying, and predicting the likelihood of school closures. The data were obtained from a government open-data website and include various features such as tuition fees, sector, number of classes, school status (open/closed), and more.
