@@ -78,4 +78,8 @@ At the same time, an **Unsupervised** analysis was also conducted to gain insigh
 
 ---
 
+**Project Team**:  
+- Menachem – Classification models.  
+- Itamar – Unsupervised models.  
+
 **Thank you for your interest in the project!**
