@@ -1,7 +1,7 @@
 # School Closure Prediction and Analysis by Classification & Unsupervised analysis Project
 
 ## Project Description
-This project focuses on analyzing, classifying, and predicting the likelihood of school closures. The data were obtained from a government open-data website and include various features such as tuition fees, sector, number of classes, school status (open/closed), and more.
+This project focuses on analyzing, classifying, and predicting the likelihood of school closures. The data were obtained from a government open-data website (https://data.gov.il/dataset/shkifut-budget-school-2016) and include various features such as tuition fees, sector, number of classes, school status (open/closed), and more.
 
 The primary goal is to identify schools that are at risk of closure in advance and to understand which features predict this risk. To achieve our goal we did two projects, one of which **Classification** project was carried out, in which multiple models (XGBoost, Random Forest, SVC, etc.) were compared to forecast whether a school is likely to remain open or close. The main focus was addressing the class imbalance issue (most data pertain to “open” schools) and selecting appropriate metrics (Precision, Recall, F1-score) to evaluate model performance.
 
